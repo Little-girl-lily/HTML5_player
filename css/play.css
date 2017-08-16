@@ -1,0 +1,63 @@
+	    body{
+	    	background-color: purple;
+	    	padding: 0;
+	    	margin:0;
+	    }
+		.Interface{
+			width: 350px;
+			height: 60%;
+			margin: 30px auto;
+			border-radius: 5px;
+			border: 1px solid #fff;
+		}
+		audio{
+			background-color: #74CEF1;
+			height: 10%;
+			width: 100%;
+		}
+		#Songlist{
+			background-color: #EFE0E0;
+			height: 74%;
+			overflow: hidden;
+		}
+		#lyric{
+			width: 100%;
+			height: 74%;
+			text-align: center;
+			background-color: #EFE0E0;
+			overflow: hidden;
+		}
+		.foot{
+			border-top: 1px solid #aaa;
+			height: 10%;
+			width: 100%;
+			background-color:#74CEF1;
+            line-height: 50px;
+            text-align: center;
+		}
+		ul{
+			padding: 0;
+		}
+		ul li{
+			list-style-type: none;
+			height: 50px;
+			line-height: 50px;
+			border-bottom: 1px solid #aaa;
+			padding-left: 10px;
+			color:#000;
+			font-size: 17px;
+			cursor: pointer;
+		}
+		.menu{
+			height: 30px;
+		    margin: 0;
+		    background-color: #74CEF1;
+		    border-radius: 3px;
+		    overflow: hidden;
+		}
+		img{
+			width: 30px;
+		    height: 30px;
+		    float: right;
+		    cursor: pointer;
+		}
